@@ -4,11 +4,11 @@ import java.util.Scanner;
 public class Lista1q1 {
 
     public static void main(String[] args) {
-        float a, b;
+        int a, b;
          Scanner numero;
          numero = new Scanner(System.in);
         System.out.println("Digite o valor de A: ");
-        a = numero.nextFloat();
+        a = numero.nextInt();
         
         b = 2;
         
